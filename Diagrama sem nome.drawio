@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T12:25:53.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.5" etag="OhtsY7ciIHPU9031amFg" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T12:42:01.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="CdcneDDQrgpfAq5YCnKW" version="24.2.5" type="github">
   <diagram name="Página-1" id="resNPPU2J88MUc1dq6gg">
-    <mxGraphModel>
+    <mxGraphModel dx="1690" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aH43dISX2aOUFSMn2uxZ-1" value="SISTEMA BACK END" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-540" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aH43dISX2aOUFSMn2uxZ-3" value="Cadastro" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aH43dISX2aOUFSMn2uxZ-4" value="&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="-412" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aH43dISX2aOUFSMn2uxZ-5" value="Carrinho" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aH43dISX2aOUFSMn2uxZ-6" value="Pagamento" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aH43dISX2aOUFSMn2uxZ-8" value="Produtos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aH43dISX2aOUFSMn2uxZ-9" value="Suporte" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-480" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
